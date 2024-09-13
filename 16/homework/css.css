@@ -1,0 +1,28 @@
+button{
+    cursor: pointer;
+    height: 35px;
+    width: 100px;
+    border-radius: 10px;
+}
+button:hover{
+    background-color: hsl(0, 0%, 80%)
+}
+button:active{
+    background-color: hsl(0, 0%, 60%)
+}
+input{
+    height: 35px;
+    width: 300px;
+    border-radius: 10px;
+}
+button{
+    width: 150px;
+    height: 75px;
+    border-radius: 50px;
+    border: none;
+    background-color: hsl(0, 0%, 20%);
+    color: white;
+    font-size: 2rem;
+    font-weight: bold;
+    cursor: pointer;
+}
